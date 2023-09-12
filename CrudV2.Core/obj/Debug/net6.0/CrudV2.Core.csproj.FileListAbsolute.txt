@@ -1,0 +1,11 @@
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\bin\Debug\net6.0\CrudV2.Core.deps.json
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\bin\Debug\net6.0\CrudV2.Core.dll
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\bin\Debug\net6.0\CrudV2.Core.pdb
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.AssemblyInfoInputs.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.AssemblyInfo.cs
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.dll
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\refint\CrudV2.Core.dll
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\CrudV2.Core.pdb
+C:\Users\danil\Coding\CrudV2\CrudV2.Core\obj\Debug\net6.0\ref\CrudV2.Core.dll

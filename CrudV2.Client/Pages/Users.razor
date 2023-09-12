@@ -1,0 +1,49 @@
+﻿@page "/users"
+@using CrudV2.Business.DTOs
+@using CrudV2.Client.Services
+@inject IUserService UserService
+
+
+<h3>Listagem de Usuários</h3>
+
+Console.WriteLine('usuarios: ', users);
+
+@if (users == null)
+{
+    <p>Carregando...</p>
+}
+else if (users.Count() == 0)
+{
+    <p>Nenhum usuário encontrado.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in users)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IEnumerable<UserDto> users;
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await UserService.GetAllUsersAsync();
+    }
+}

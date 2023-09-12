@@ -1,0 +1,7 @@
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.AssemblyInfoInputs.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.AssemblyInfo.cs
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.csproj.CoreCompileInputs.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.RazorAssemblyInfo.cache
+C:\Users\danil\Coding\CrudV2\CrudV2.Client\obj\Debug\net5.0\CrudV2.Client.RazorAssemblyInfo.cs

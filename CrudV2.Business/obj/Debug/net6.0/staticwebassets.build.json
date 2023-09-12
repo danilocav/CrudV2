@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3V7hohm9jkC1z1mYiPB7b+TZih7TvlO/9rhRUt4DwsE=",
+  "Source": "CrudV2.Business",
+  "BasePath": "_content/CrudV2.Business",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\danil\\Coding\\CrudV2\\CrudV2.Data\\CrudV2.Data.csproj",
+      "Version": 2,
+      "Source": "CrudV2.Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
